@@ -1,3 +1,5 @@
 some content
 noch etwas text
-content for new branch...
+content for "new" branch
+
+some content for "new" branch
